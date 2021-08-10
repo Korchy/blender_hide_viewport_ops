@@ -1,6 +1,8 @@
 # Hide Viewport
 Operators for hiding object in 3D Viewport windows in all project scenes
 
+<img src='https://b3d.interplanety.org/wp-content/upload_content/2021/08/preview_00_1200x600-560x280.jpg'><p>
+
 Addon functionality
 -
 Pressing the 'Y' key hides the selected objects in 3D Vipewport globally in all the project scenes.

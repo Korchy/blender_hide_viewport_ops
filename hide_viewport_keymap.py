@@ -15,7 +15,9 @@ class HIDE_VIEWPORT_KeyMap:
     def register(cls, context):
         # add new key map
         if context.window_manager.keyconfigs.addon:
-            keymap = context.window_manager.keyconfigs.addon.keymaps.new(name='Window')
+            keymap = context.window_manager.keyconfigs.addon.keymaps.new(
+                name='Object Mode'
+            )
             # add keys
             keymap_item = keymap.keymap_items.new('object.hide_viewport', 'Y', 'PRESS')
             keymap_item.properties.mode = 'HIDE'

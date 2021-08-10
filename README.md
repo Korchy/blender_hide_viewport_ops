@@ -1,2 +1,3 @@
-# blender_hide_viewport_ops
-Hide Viewport Ops
+# Hide Viewport
+Operators for hiding object in 3D Viewport windows in all project scenes
+
